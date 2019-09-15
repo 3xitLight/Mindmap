@@ -13,6 +13,11 @@
            https://github.com/Slethen/ProtonVPN-Gtk
            
            
+           ##### Tutorial
+            
+           https://hashcat.net/wiki/doku.php?id=cracking_wpawpa2#preparation
+           
+           
            ##### Links  
            
            https://www.cyberpunk.rs
