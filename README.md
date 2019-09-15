@@ -22,6 +22,7 @@
            
            
            ##### Tutorial
+           https://github.com/W00t3k/Awesome-Cellular-Hacking
            https://hashcat.net/wiki/doku.php?id=cracking_wpawpa2#preparation
            https://www.aircrack-ng.org/doku.php?id=injection_test
            https://www.evilsocket.net/2019/02/13/Pwning-WiFi-networks-with-bettercap-and-the-PMKID-client-less-attack/
