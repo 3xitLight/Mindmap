@@ -28,6 +28,7 @@
            
            
            ##### Links  
+           https://www.evilsocket.net
            https://www.cyberpunk.rs
            https://www.kitploit.com
            https://null-byte.wonderhowto.com
