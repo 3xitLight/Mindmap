@@ -1,6 +1,7 @@
            
            ##### Useful Stuff  
            
+           https://github.com/hash3liZer/WiFiBroot
            https://github.com/r3vn/badKarma
            https://github.com/bettercap/bettercap
            https://github.com/Ettercap/ettercap
